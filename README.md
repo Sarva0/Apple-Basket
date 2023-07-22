@@ -1,3 +1,3 @@
-Was a game dev project for ASC
+Made by Sarva Kumar, Ethan Chen, Mohamed Ghoba, and John Cruz
 
-Unfinished with multiple errors
+A project for ASC week 2
